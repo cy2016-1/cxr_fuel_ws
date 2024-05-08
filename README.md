@@ -18,6 +18,7 @@
 - roslaunch exploration_manager exploration.launch
 - 启动控制节点
 - rosrun exploration_manager fuel_nav
+- 仿真的话，QGC解锁，然后切入offboard模式，此时飞机会飞到1m高度，然后rviz给个2d_nav_goal触发探索即可
 - 实机的话，遥控器先解锁，然后切OFFBOARD开关进入offboard模式，此时飞机会飞到1m高度，然后rviz给个2d_nav_goal触发探索即可
 
 
