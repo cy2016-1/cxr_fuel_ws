@@ -7,7 +7,7 @@
 - sudo make install
 - 
 
-### 下载cxr_fuel_ws
+### 下载cxr_fuel_ws，只适合ubuntu20
 - git clone https://gitee.com/Canada-a/cxr_fuel_ws
 - cd cxr_fuel_ws
 - catkin_make
