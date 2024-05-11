@@ -5,7 +5,7 @@
 - cmake ..
 - make
 - sudo make install
-- 
+- sudo apt install libdw-dev
 
 ### 下载cxr_fuel_ws，只适合ubuntu20
 - git clone https://gitee.com/Canada-a/cxr_fuel_ws
